@@ -13,7 +13,7 @@ setup(
     license='GPL3',
     author='Kamo Petrosyan',
     author_email='kamo@haikson.com',
-    description='A Dhango News. Created for Virtenviro.',
+    description='A Django News application. Created for Virtenviro.',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
